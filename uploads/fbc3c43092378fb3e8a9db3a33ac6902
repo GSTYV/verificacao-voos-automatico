@@ -1,0 +1,3 @@
+Cotação;Nome;Origem;Destino;Passageiros;Tipo;Companhia;Voo;Checkin;"Data Embarque";"Hora Embarque";Localizador;"Nº da Compra"
+y6702;"Gustavo Correa Dias";"Rio De Janeiro (GIG)";"Porto Seguro (BPS)";1;Ida;Gol;;"Notificar Check-in 48h";06/06/2025;08:30;AYEBUG;
+y6702;"Gustavo Correa Dias";"Porto Seguro (BPS)";"Rio De Janeiro (GIG)";1;Volta;Gol;;"Notificar Check-in 48h";13/06/2025;14:20;AYEBUG;

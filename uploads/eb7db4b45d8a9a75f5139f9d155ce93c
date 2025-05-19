@@ -1,0 +1,5 @@
+Cotação;Nome;Origem;Destino;Passageiros;Tipo;Companhia;Voo;Checkin;"Data Embarque";"Hora Embarque";Localizador;"Nº da Compra"
+8k3x7;"João Paulo de Souza Costa";"Salvador (SSA)";"Rio De Janeiro (SDU)";1;Volta;Azul;2904;"Notificar Check-in 72h";20/05/2025;09:15;YLZMQZ;
+cdmpe;"Esteban Espinosa";"Lisboa (LIS)";"Rio De Janeiro (GIG)";1;Ida;Azul;8751;"Notificar Check-in 72h";20/05/2025;10:00;AQWWKR;
+yjdeu;"Victoria Carvalho de Paula";"Rio De Janeiro (GIG)";"Lisboa (LIS)";1;Ida;"LATAM Airlines";LA3699;"Notificar Check-in 48h";20/05/2025;11:30;;LA9571303QECS
+s0vom;"Jéssica Elida Paiva Barbosa";"Rio De Janeiro (GIG)";"Fortaleza (FOR)";1;Ida;Gol;2082;"Notificar Check-in 48h";20/05/2025;21:40;EIFCZP;
