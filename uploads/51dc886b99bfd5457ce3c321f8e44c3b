@@ -1,0 +1,61 @@
+Cotação;Nome;Origem;Destino;Passageiros;Tipo;Companhia;Voo;Checkin;"Data Embarque";"Hora Embarque";Localizador;"Nº da Compra"
+8sh23;"RAISSA VIRGINIA DE JESUS SOUZA RIBEIRO";"Rio De Janeiro (GIG)";"Santiago (SCL)";1;Ida;"LATAM Airlines";LA777;"Notificar Check-in 48h";02/09/2025;10:40;;LA9577734ETNE
+dnlqf;"Guilherme Silva Abissamra";"Porto Seguro (BPS)";"São Paulo (GRU)";1;Ida;"LATAM Airlines";;"Notificar Check-in 48h";03/09/2025;03:50;SHQGXM;LA9575186SKUD
+jaltz;"FABIO VASCONCELOS ";"Porto Seguro (BPS)";"São Paulo (GRU)";1;Ida;"LATAM Airlines";LA3347;"Notificar Check-in 48h";03/09/2025;03:50;EELGPJ;LA9577717UWUL
+7mrfb;"Guilherme Silva Abissamra";"Porto Seguro (BPS)";"São Paulo (GRU)";1;Ida;"LATAM Airlines";LA3347;"Notificar Check-in 48h";03/09/2025;03:50;NIUQLX;LA9570683MVVI
+uiqp5;"Monique da Silveira Gois";"Rio De Janeiro (GIG)";"Fernando De Noronha (FEN)";1;Ida;Azul;2926;"Notificar Check-in 72h";03/09/2025;06:30;"HR9KGR / QRHGPE / QMHWQT";
+w3f8e;"Camila Magalhães";"Rio De Janeiro (GIG)";"Fernando De Noronha (FEN)";1;Ida;Azul;2926;"Notificar Check-in 72h";03/09/2025;06:30;NPEJQK;
+fcb87;"Marcelo Oliveira de Andrade";"Porto Alegre (POA)";"Rio De Janeiro (GIG)";1;Volta;Azul;2885;"Notificar Check-in 72h";03/09/2025;08:25;KJBI3z;
+dnlqf;"Guilherme Silva Abissamra";"São Paulo (GRU)";"Fernando De Noronha (FEN)";1;Ida;Gol;1878;"Notificar Check-in 48h";03/09/2025;08:40;FXQYAU;
+jaltz;"FABIO VASCONCELOS ";"São Paulo (GRU)";"Fernando De Noronha (FEN)";1;Ida;Gol;1774;"Notificar Check-in 48h";03/09/2025;08:45;QDWGNK;
+7mrfb;"Guilherme Silva Abissamra";"São Paulo (GRU)";"Fernando De Noronha (FEN)";1;Ida;Gol;1774;"Notificar Check-in 48h";03/09/2025;08:45;UPDZNQ;
+huo89;"Maria Helena Santiago Scardua";"Vitória (VIX)";"São Paulo (CGH)";1;Ida;"LATAM Airlines";LA3645;"Notificar Check-in 48h";05/09/2025;15:25;;LA9575606LSMT
+fqyxc;"Eduarda Paes de Almeida";"Rio De Janeiro (SDU)";"São Paulo (CGH)";1;Ida;Gol;1099;"Notificar Check-in 48h";05/09/2025;18:00;DERZMX;
+nzdfx;"Julia Monteiro de Souza ";"Fernando De Noronha (FEN)";"Recife (REC)";1;Ida;Azul;4467;"Notificar Check-in 72h";06/09/2025;10:50;IJKYJZ;
+nzdfx;"Julia Monteiro de Souza ";"Recife (REC)";"Rio De Janeiro (GIG)";1;Volta;Azul;4631;"Notificar Check-in 72h";06/09/2025;15:30;IJKYJZ;
+8sh23;"RAISSA VIRGINIA DE JESUS SOUZA RIBEIRO";"Santiago (SCL)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA770;"Notificar Check-in 48h";07/09/2025;13:10;;LA9577734ETNE
+eylvd;"Marianna Guedes Costa Fonseca";"Fernando De Noronha (FEN)";"Rio De Janeiro (GIG)";1;Volta;Azul;4091;"Notificar Check-in 72h";07/09/2025;16:30;"VWUGNN / YWK6QA";
+huo89;"Maria Helena Santiago Scardua";"São Paulo (CGH)";"Vitória (VIX)";1;Volta;"LATAM Airlines";LA3844;"Notificar Check-in 48h";07/09/2025;21:25;;LA9575606LSMT
+uiqp5;"Monique da Silveira Gois";"Fernando De Noronha (FEN)";"Rio De Janeiro (GIG)";1;Volta;Azul;4719;"Notificar Check-in 72h";08/09/2025;11:10;"HR9KGR / QRHGPE / QMHWQT";
+w3f8e;"Camila Magalhães";"Fernando De Noronha (FEN)";"Rio De Janeiro (GIG)";1;Volta;Azul;4091;"Notificar Check-in 72h";08/09/2025;16:30;NPEJQK;
+fqyxc;"Eduarda Paes de Almeida";"São Paulo (CGH)";"Rio De Janeiro (SDU)";1;Volta;Gol;1012;"Notificar Check-in 48h";09/09/2025;09:20;DERZMX;
+shlb4;"Annelisa Paes Leme ";"Rio De Janeiro (GIG)";"Porto Alegre (POA)";1;Ida;Azul;2662;"Notificar Check-in 72h";09/09/2025;11:00;BR29VR;
+pyc8r;"Maria Vanda de Oliveira Gonçalves";"Rio De Janeiro (GIG)";"Florianópolis (FLN)";1;Ida;Gol;2092;"Notificar Check-in 48h";09/09/2025;12:25;OSPKFP;
+lcr61;"Érica Abrahão Franco ";"Rio De Janeiro (GIG)";"Porto Seguro (BPS)";1;Ida;"LATAM Airlines";LA3013;"Notificar Check-in 48h";10/09/2025;23:30;"NHQRYY / JUAQIN";LA9578719JUXI
+strix;"Evangelina Maria Campos da Silva Freire";"Rio De Janeiro (GIG)";"Natal (NAT)";1;Ida;Gol;;"Notificar Check-in 48h";11/09/2025;06:00;UZTCFX;
+dnlqf;"Guilherme Silva Abissamra";"Fernando De Noronha (FEN)";"São Paulo (GRU)";1;Volta;Gol;1776;"Notificar Check-in 48h";11/09/2025;15:30;FXQYAU;
+jaltz;"FABIO VASCONCELOS ";"Fernando De Noronha (FEN)";"São Paulo (GRU)";1;Volta;Gol;1776;"Notificar Check-in 48h";11/09/2025;15:30;QDWGNK;
+7mrfb;"Guilherme Silva Abissamra";"Fernando De Noronha (FEN)";"São Paulo (GRU)";1;Volta;Gol;1776;"Notificar Check-in 48h";11/09/2025;15:30;UPDZNQ;
+qxeol;"Julia Marine Romão";"Rio De Janeiro (GIG)";"Porto Seguro (BPS)";1;Ida;"LATAM Airlines";LA3013;"Notificar Check-in 48h";11/09/2025;23:30;;LA9579699CAPM
+dnlqf;"Guilherme Silva Abissamra";"São Paulo (GRU)";"Porto Seguro (BPS)";1;Volta;"LATAM Airlines";;"Notificar Check-in 48h";11/09/2025;23:50;SHQGXM;LA9575186SKUD
+jaltz;"FABIO VASCONCELOS ";"São Paulo (GRU)";"Porto Seguro (BPS)";1;Volta;"LATAM Airlines";;"Notificar Check-in 48h";11/09/2025;23:50;EELGPJ;LA9577717UWUL
+7mrfb;"Guilherme Silva Abissamra";"São Paulo (GRU)";"Porto Seguro (BPS)";1;Volta;"LATAM Airlines";;"Notificar Check-in 48h";11/09/2025;23:50;NIUQLX;LA9570683MVVI
+pyc8r;"Maria Vanda de Oliveira Gonçalves";"Florianópolis (FLN)";"Rio De Janeiro (GIG)";1;Volta;Gol;2093;"Notificar Check-in 48h";12/09/2025;14:45;OSPKFP;
+shlb4;"Annelisa Paes Leme ";"Porto Alegre (POA)";"Rio De Janeiro (GIG)";1;Volta;Azul;2885;"Notificar Check-in 72h";14/09/2025;08:25;VMYIGT;
+rv03u;"Isabela Loretti Pessanha da Silva ";"Rio De Janeiro (GIG)";"Porto Seguro (BPS)";1;Ida;"LATAM Airlines";LA3013;"Notificar Check-in 48h";14/09/2025;23:30;ULHAXK;LA9572590TUUA
+0hix6;"Eliane Tereza dos Santos";"Rio De Janeiro (GIG)";"Porto Seguro (BPS)";1;Ida;"LATAM Airlines";LA3013;"Notificar Check-in 48h";14/09/2025;23:30;;LA9576088CQIE
+jnp82;"Maria Paula de Andrade Lamounier";"Rio De Janeiro (GIG)";"Salvador (SSA)";1;Ida;"LATAM Airlines";LA3672;"Notificar Check-in 48h";15/09/2025;08:50;IXHUZL;LA9570589NMWQ
+iw5pu;"Jefferson Douglas de Souza";"São Paulo (GRU)";"Mexico City (MEX)";1;Ida;Aeroméxico;"AM 15";"Notificar Check-in 48h";15/09/2025;09:40;BBJIU6;
+qxeol;"Julia Marine Romão";"Porto Seguro (BPS)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA3752;"Notificar Check-in 48h";16/09/2025;03:20;;LA9579699CAPM
+lcr61;"Érica Abrahão Franco ";"Porto Seguro (BPS)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA3752;"Notificar Check-in 48h";16/09/2025;03:20;"NHQRYY / JUAQIN";LA9578719JUXI
+nqwue;"Evangelina Maria Campos da Silva Freire";"Natal (NAT)";"Rio De Janeiro (GIG)";1;Ida;Gol;2055;"Notificar Check-in 48h";16/09/2025;11:30;HHHCEH;
+m6fls;"Eveline Derzi Pinheiro";"Rio De Janeiro (SDU)";"São Paulo (VCP)";1;Ida;Azul;;"Notificar Check-in 48h";17/09/2025;13:40;XQUSUH;
+m6fls;"Eveline Derzi Pinheiro";"São Paulo (VCP)";"Paris (ORY)";1;Ida;Azul;;"Notificar Check-in 48h";17/09/2025;18:30;YMC5PG;
+18c6u;"Roberta Lopes Alves";"Rio De Janeiro (GIG)";"Recife (REC)";1;Ida;Azul;2641;"Notificar Check-in 72h";18/09/2025;12:00;AW8Y4X;
+7ap2j;"Solange Dias Ribeiro";"Rio De Janeiro (GIG)";"Belo Horizonte (CNF)";1;Ida;Azul;4752;"Notificar Check-in 72h";18/09/2025;20:50;NG6H5V;
+3xatg;"Mônica Tugores Novo Ribeiro";"Palma Mallorca (PMI)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA1823;"Notificar Check-in 48h";19/09/2025;06:30;;LA9579267SQNM
+9rqcg;"Yago Ribeiro da Silva";"Rio De Janeiro (GIG)";"Belo Horizonte (CNF)";1;Ida;Azul;4752;"Notificar Check-in 72h";19/09/2025;21:50;GE8Y8L;
+bx259;"Felipe Dinau Leal Passos";"Rio De Janeiro (GIG)";"Istanbul (IST)";1;Ida;Gol;5004;"Notificar Check-in 48h";19/09/2025;22:05;EQSCDQ;
+rv03u;"Isabela Loretti Pessanha da Silva ";"Porto Seguro (BPS)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA3752;"Notificar Check-in 48h";20/09/2025;03:20;ULHAXK;LA9572590TUUA
+0hix6;"Eliane Tereza dos Santos";"Porto Seguro (BPS)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA3752;"Notificar Check-in 48h";20/09/2025;03:20;;LA9576088CQIE
+843iq;"Yago Ribeiro";"Belo Horizonte (CNF)";"Rio De Janeiro (GIG)";1;Ida;Azul;4110;"Notificar Check-in 72h";21/09/2025;23:30;RGGPWY;
+jnp82;"Maria Paula de Andrade Lamounier";"Salvador (SSA)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";;"Notificar Check-in 48h";22/09/2025;11:50;IXHUZL;LA9570589NMWQ
+69ejw;"Flávia Brenda Oliveira Ferreira";"Porto Seguro (BPS)";"São Paulo (GRU)";1;Volta;"LATAM Airlines";LA3343;"Notificar Check-in 48h";22/09/2025;14:40;;LA9577016EZYO
+18c6u;"Roberta Lopes Alves";"Recife (REC)";"Rio De Janeiro (GIG)";1;Volta;Azul;4625;"Notificar Check-in 72h";22/09/2025;15:30;AW8Y4X;
+a3nz9;"Geraldo Luiz Lemos Stoltzenburg";"Rio De Janeiro (GIG)";"Madrid (MAD)";1;Ida;"LATAM Airlines";LA1596;"Notificar Check-in 48h";23/09/2025;19:10;HXQQUG;LA9575438LYXG
+a3nz9;"Geraldo Luiz Lemos Stoltzenburg";"Madrid (MAD)";"Paris (ORY)";1;Ida;"Iberia Airlines";"IB 579";"Notificar Check-in 48h";24/09/2025;16:05;PWH4R;
+iw5pu;"Jefferson Douglas de Souza";"Mexico City (MEX)";"São Paulo (GRU)";1;Volta;Aeroméxico;"AM 14";"Notificar Check-in 48h";24/09/2025;18:55;BBJIU6;
+gox3i;" Elizania Dias dos Santos";"Rio De Janeiro (GIG)";"Vitória (VIX)";1;Ida;"LATAM Airlines";LA3660;"Notificar Check-in 48h";25/09/2025;06:40;;LA9576449UGCD
+ckbu2;"Bernardo Costa Giannin";"Rio De Janeiro (GIG)";"Madrid (MAD)";1;Ida;"LATAM Airlines";LA1596;"Notificar Check-in 48h";25/09/2025;19:05;YBLQHB;LA9571969NKAB
+gox3i;" Elizania Dias dos Santos";"Vitória (VIX)";"Rio De Janeiro (GIG)";1;Volta;"LATAM Airlines";LA3665;"Notificar Check-in 48h";29/09/2025;08:30;;LA9576449UGCD
+2gkm4;"Eduardo Reiner Vianna";"Rio De Janeiro (SDU)";"Ilhéus (IOS)";1;Ida;Azul;;"Notificar Check-in 48h";30/09/2025;10:40;FQ9VJE;

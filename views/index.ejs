@@ -25,6 +25,7 @@
             <th>Origem</th>
             <th>Sobrenome</th>
             <th>Companhia</th>
+            <th>Data do Voo</th>
             <th>Status</th>
           </tr>
         </thead>
@@ -33,12 +34,15 @@
             <tr>
               <td><%= result.nome %></td>
               <td><%= result.localizador %></td>
-              <td><%= result.origemSigla || "N/A" %></td>
-              <td><%= result.ultimoSobrenome %></td>
+              <td><%= result.origem || "N/A" %></td>
+              <td><%= result.sobrenome %></td>
               <td><%= result.companhia %></td>
+              <td><%= result.data || "Indefinido" %></td>
               <td>
                 <% if (result.status === 'Erro') { %>
                   <span class="text-danger"><%= result.status %></span>
+                <% } else if (result.status === 'Não compatível') { %>
+                  <span class="text-info"><%= result.status %></span> 
                 <% } else if (result.status === 'Alterado') { %>
                   <span class="text-warning fw-bold"><%= result.status %></span>
                 <% } else { %>
@@ -50,6 +54,35 @@
         </tbody>
       </table>
     <% } %>
+
+    <div id="progresso-container" style="display:none; margin-top:20px;">
+      <p>Progresso: <span id="progresso-texto">0%</span></p>
+      <div style="background:#ccc; width:100%; height:20px;">
+        <div id="barra-progresso" style="background:green; width:0%; height:100%;"></div>
+      </div>
+    </div>
   </div>
+
+  <script>
+    async function verificarProgresso() {
+      const resposta = await fetch('/progresso');
+      const { porcentagem } = await resposta.json();
+      document.getElementById("progresso-container").style.display = "block";
+      document.getElementById("barra-progresso").style.width = porcentagem + '%';
+      document.getElementById("progresso-texto").innerText = porcentagem + '%';
+
+      if (porcentagem < 100) {
+        setTimeout(verificarProgresso, 1000);
+      }
+    }
+
+    const form = document.querySelector("form");
+    if (form) {
+      form.addEventListener("submit", () => {
+        setTimeout(verificarProgresso, 500);
+      });
+    }
+  </script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
